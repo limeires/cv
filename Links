@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<h1>  This is the heading 1 using h1 tag</h1>
+<!-- Code for the size of characters-->
+<h1>Heading level 1</h1>
+<h2>Heading level 2</h2>
+<h3>Heading level 3</h3>
+<h4>Heading level 4</h4>
+<h5>Heading level 5</h5>
+<h6>Heading level 6</h6>
+
+<!-- SPACE BETWEEN PAGES-->
+<<hr>>
+<br>
+<!-- line with text, have-->
+
+<p> Paragraph
+<ul> (Unordered List)
+<ol> ordered list
+<img src=
+<!-- How to Create a Link?-->
+<a hre
+<!--how to make a table and its differents setups-->
+<table  tr (row) rd(information)
+forms !
+form action="mailto:vitorglima22@gmail.com" method="post" enctype="text/plain">
+  <div class="form-example">
+    <label for="fname">Full Name</label>
+    <input type="text" name="yourname" id="name" required><br>
+    <label for="email">Enter your email: </label>
+    <input type="email" name="email" id="email" required><br>
+    <label>Password</label>
+    <input type="password" value="passowrd" required><br>
+    <label> What is your main goal in learning code?</label>
+    <textarea name="name" rows="4" cols="50"></textarea><br>
+    <input type="submit" value="Subscribe!">
+<!-- In this exampe the answers will be collected and sent it out to the respective email at action.-->
